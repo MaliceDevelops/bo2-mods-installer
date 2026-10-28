@@ -4,6 +4,14 @@
 
 First release. One installer for all of my mods: tick the ones you want, and only those are downloaded and installed.
 
+- Into Zombies Declassified or as a mod of their own (without Zombies Declassified).
+- Stays on your PC: a "MaliceDevelops BO2 Mods" shortcut on the desktop and in the Start menu opens it again.
+- Settings window for each mod, with Reset to defaults.
+- Repair: checks every installed file and downloads again only what's missing or damaged.
+- Turn off / Turn on: Zombies Declassified plays as it came, then the mods come back without downloading again.
+- Play: opens Plutonium's launcher.
+- Updates itself when a newer installer is out.
+
 Mods in pack 1:
 
 - [Apothicon Servant 4.2](https://github.com/MaliceDevelops/apothicon-servant-bo2)

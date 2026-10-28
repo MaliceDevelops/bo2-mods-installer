@@ -19,9 +19,10 @@ Under **Assets**, download `MaliceDevelops_BO2_Mods_Installer_v<version>.zip`. E
 2. Unzip the download anywhere and double-click **Install.bat**.
 3. Tick the mods you want in the window.
 4. Choose where they go, press **Install** and play:
-   - **Into Zombies Declassified:** launch it like always. The mods work on its maps and on the normal BO2 maps.
-   - **Into a copy of Zombies Declassified:** your own Zombies Declassified stays exactly as it is. Open **Mods** and pick **Zombies Declassified + MaliceDevelops Mods**.
+   - **Into Zombies Declassified:** launch it like always. The mods work on its maps and on the normal BO2 maps. To play Zombies Declassified without them, press **Turn off** (see below).
    - **As a mod of their own** (the only choice without Zombies Declassified): open **Mods**, pick **MaliceDevelops Mods**, then play any map.
+
+The installer stays on your PC: a **MaliceDevelops BO2 Mods** shortcut on your desktop and in the Start menu opens it again, so you don't need to keep the zip. Its **Play** button opens Plutonium's launcher.
 
 Install.bat needs Windows 10 or 11 and an internet connection. To install by hand instead, follow `README.txt` in the download.
 
@@ -29,15 +30,23 @@ Windows may warn about running a downloaded `.bat`. Install.bat only downloads m
 
 ## Add, remove or update mods
 
-Run **Install.bat** again: tick a mod to add it, untick it (or press its **Uninstall** button) to remove it. It always installs the newest versions, keeps your settings, and doesn't download again what's already up to date.
+Open the **MaliceDevelops BO2 Mods** shortcut (or run Install.bat again): tick a mod to add it, untick it (or press its **Uninstall** button) to remove it. It always installs the newest versions, keeps your settings, and doesn't download again what's already up to date. When a newer installer is out, it updates itself first.
+
+## Repair
+
+If a mod acts broken, press **Repair**: it checks every installed file against the published version and downloads again only what's missing or damaged. Your settings are kept.
+
+## Turn off / Turn on
+
+Installed into Zombies Declassified? **Turn off** sets my mods aside so Zombies Declassified plays exactly as it came, and **Turn on** puts them back. Nothing is downloaded again and your settings are kept.
 
 ## Settings
 
-A mod with settings gets a **Settings** button in the window once it's installed: tick what you want and press **Save**. Your settings are kept when you update.
+A mod with settings gets a **Settings** button in the window once it's installed: tick what you want and press **Save**. **Reset to defaults** puts back the mod's own settings. Your settings are kept when you update.
 
 ## Uninstall
 
-Close BO2 and double-click **Uninstall.bat**, or press **Uninstall all** in the window. It removes all of my mods and puts back anything it set aside.
+Close BO2 and press **Uninstall all** in the window (or double-click **Uninstall.bat**). It removes all of my mods, the shortcuts and the installer kept on your PC, and puts back anything it set aside.
 
 ## How it stays lean
 
@@ -49,7 +58,7 @@ Close BO2 and double-click **Uninstall.bat**, or press **Uninstall all** in the 
 
 - **Co-op:** everyone in the game needs the same mods ticked.
 - **Other mods:** script mods like B2OP work fine alongside.
-- **After a Zombies Declassified update or install:** if a mod stops working, run Install.bat again.
+- **After a Zombies Declassified update or install:** if a mod stops working, open the shortcut and press **Repair**.
 - **Bugs:** open an issue on that mod's page.
 
 ## Credits
