@@ -10,6 +10,7 @@
 - Hover over anything for an explanation. Help (top right) and each ? open a guide inside the installer, with pictures.
 - Uninstall.bat runs in the same window, and asks first.
 - When Plutonium doesn't say where Black Ops 2 is, the window asks (with Steam's folder to pick, if it finds one).
+- **Linux:** Install.sh / Uninstall.sh in the same download, for Plutonium through Wine - the Steam Deck and Steam's Proton, Lutris, Bottles, Heroic or plain Wine. It finds Plutonium in the Wine prefix and installs the same way, with the same choices (dialog windows, or the terminal).
 - Installers from earlier packs update themselves to 1.2 the next time they run.
 
 ## Installer 1.1 (pack 2)

@@ -18,7 +18,7 @@ Under **Assets**, download `MaliceDevelops_BO2_Mods_Installer_v<version>.zip`. *
 ## Before you start
 
 - Black Ops 2 with [Plutonium](https://plutonium.pw), and you've played Zombies at least once.
-- Windows 10 or 11 and an internet connection. (Anywhere else: follow `README.txt` in the download to install by hand.)
+- Windows 10 or 11 and an internet connection - or **Linux** (Steam Deck, Lutris, Bottles, Heroic, Wine): see [On Linux](#on-linux-steam-deck-lutris-bottles-heroic-wine). Anywhere else: follow `README.txt` in the download to install by hand.
 - Optional: **Zombies Declassified**, to play the mods on its Black Ops 1 maps too.
 
 ## Install, step by step
@@ -67,6 +67,21 @@ When it's done, the window comes back with your mods marked **Installed** and **
 ### 6. Play
 
 Press **Play** to open Plutonium's launcher (pick Black Ops II Zombies there), and play as shown under **Where your mods are**. If you put the mods into or alongside Zombies Declassified, remember that **its own maps are only listed in Private Match**: Solo shows the normal BO2 maps.
+
+## On Linux (Steam Deck, Lutris, Bottles, Heroic, Wine)
+
+Plutonium runs on Linux through Wine, and the same download has a Linux installer: **Install.sh**. It finds Plutonium in your Wine prefix - Steam's Proton (also on the Steam Deck), Lutris, Bottles, Heroic or `~/.wine` - and Black Ops 2 through Plutonium's own settings, then installs the mods there exactly like the Windows installer: the same mods, the same three install locations, Repair, Turn off / on, Uninstall. It needs Python 3, which the Steam Deck and nearly every Linux system already have.
+
+1. Close Black Ops 2 (on the Steam Deck, switch to **Desktop Mode**).
+2. Unzip the download, open a terminal in its folder (right-click > **Open Terminal Here**) and run:
+
+   ```
+   bash Install.sh
+   ```
+
+3. Its windows ask what to install and where (without zenity, it asks in the terminal instead). It keeps itself in `~/.local/share/MaliceDevelops` and adds a **MaliceDevelops BO2 Mods** launcher to your applications menu and desktop - open that next time.
+
+To remove them: `bash Uninstall.sh`, or Uninstall in its menu. If Plutonium is somewhere unusual: `bash Install.sh --plutonium "<the Plutonium folder in your Wine prefix>"` (it's `drive_c/users/<you>/AppData/Local/Plutonium` inside the prefix). `bash Install.sh --help` lists every option.
 
 ## Where your mods are
 
