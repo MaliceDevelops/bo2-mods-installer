@@ -20,7 +20,7 @@ Under **Assets**, download `MaliceDevelops_BO2_Mods_Installer_v<version>.zip`. E
 3. Tick the mods you want in the window.
 4. Choose where they go, press **Install** and play:
    - **Into Zombies Declassified:** launch it like always. The mods work on its maps (in **Private Match**) and on the normal BO2 maps. To play Zombies Declassified without them, press **Turn off** (see below).
-   - **Into a copy of Zombies Declassified:** your own Zombies Declassified stays exactly as it is. Open **Mods**, pick **Zombies Declassified + MaliceDevelops Mods**, then **Private Match** for its maps.
+   - **Alongside Zombies Declassified:** your own Zombies Declassified stays exactly as it is, and the Mods menu gets a second entry with the mods. Pick **Zombies Declassified + MaliceDevelops Mods**, then **Private Match** for its maps.
    - **As a mod of their own** (the only choice without Zombies Declassified): open **Mods**, pick **MaliceDevelops Mods**, then play any map.
 
 The installer stays on your PC: a **MaliceDevelops BO2 Mods** shortcut on your desktop and in the Start menu opens it again, so you don't need to keep the zip. Its **Play** button opens Plutonium's launcher.
@@ -59,8 +59,8 @@ Close BO2 and press **Uninstall all** in the window (or double-click **Uninstall
 
 - **Co-op:** everyone in the game needs the same mods ticked.
 - **Other mods:** script mods like B2OP work fine alongside.
-- **Zombies Declassified's maps** are listed in **Private Match** (Solo shows the normal BO2 maps only), in Zombies Declassified and in its copy alike.
-- **After a Zombies Declassified update or install:** if a mod stops working, open the shortcut and press **Repair**. A copy of Zombies Declassified gets the update then too.
+- **Zombies Declassified's maps** are listed in **Private Match** (Solo shows the normal BO2 maps only), in both Zombies Declassified entries alike.
+- **After a Zombies Declassified update or install:** if a mod stops working, open the shortcut and press **Repair**. **Zombies Declassified + MaliceDevelops Mods** gets the update then too.
 - **Bugs:** open an issue on that mod's page.
 
 ## Credits

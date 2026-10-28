@@ -4,7 +4,7 @@
 
 First release. One installer for all of my mods: tick the ones you want, and only those are downloaded and installed.
 
-- Into Zombies Declassified, into a copy of it (your own Zombies Declassified stays as it is), or as a mod of their own (without Zombies Declassified).
+- Into Zombies Declassified, alongside it as a second Mods menu entry (your own stays untouched), or as a mod of their own (without Zombies Declassified).
 - Stays on your PC: a "MaliceDevelops BO2 Mods" shortcut on the desktop and in the Start menu opens it again.
 - Settings window for each mod, with Reset to defaults.
 - Repair: checks every installed file and downloads again only what's missing or damaged.
