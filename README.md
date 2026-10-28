@@ -17,10 +17,11 @@ Under **Assets**, download `MaliceDevelops_BO2_Mods_Installer_v<version>.zip`. E
 
 1. Close Black Ops 2.
 2. Unzip the download anywhere and double-click **Install.bat**.
-3. Tick the mods you want in the window and press **Install**.
-4. Play:
-   - **With Zombies Declassified:** launch it like always. The mods work on its maps and on the normal BO2 maps.
-   - **Without it:** start Zombies, open **Mods**, pick **MaliceDevelops Mods**, then play any map.
+3. Tick the mods you want in the window.
+4. Choose where they go, press **Install** and play:
+   - **Into Zombies Declassified:** launch it like always. The mods work on its maps and on the normal BO2 maps.
+   - **Into a copy of Zombies Declassified:** your own Zombies Declassified stays exactly as it is. Open **Mods** and pick **Zombies Declassified + MaliceDevelops Mods**.
+   - **As a mod of their own** (the only choice without Zombies Declassified): open **Mods**, pick **MaliceDevelops Mods**, then play any map.
 
 Install.bat needs Windows 10 or 11 and an internet connection. To install by hand instead, follow `README.txt` in the download.
 
@@ -28,11 +29,15 @@ Windows may warn about running a downloaded `.bat`. Install.bat only downloads m
 
 ## Add, remove or update mods
 
-Run **Install.bat** again: tick a mod to add it, untick it to remove it. It always installs the newest versions and keeps your settings.
+Run **Install.bat** again: tick a mod to add it, untick it (or press its **Uninstall** button) to remove it. It always installs the newest versions, keeps your settings, and doesn't download again what's already up to date.
+
+## Settings
+
+A mod with settings gets a **Settings** button in the window once it's installed: tick what you want and press **Save**. Your settings are kept when you update.
 
 ## Uninstall
 
-Close BO2 and double-click **Uninstall.bat**. It removes all of my mods and puts back anything it set aside.
+Close BO2 and double-click **Uninstall.bat**, or press **Uninstall all** in the window. It removes all of my mods and puts back anything it set aside.
 
 ## How it stays lean
 
