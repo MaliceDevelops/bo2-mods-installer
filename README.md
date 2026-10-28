@@ -86,7 +86,7 @@ The buttons at the bottom:
 | **Play** | Opens Plutonium's launcher. |
 | **Repair** | Checks every installed file against the published version and downloads again only what's missing or damaged. Your settings are kept. Use it if a mod acts broken, or after a Zombies Declassified update. |
 | **Turn off** / **Turn on** | Only for mods installed into Zombies Declassified. **Turn off** sets them aside so Zombies Declassified plays exactly as it came; **Turn on** puts them back. Nothing is downloaded again. |
-| **Uninstall all** | Removes all of my mods, the shortcuts and the installer kept on your PC, and puts back anything it set aside. |
+| **Uninstall all** | Removes all of my mods and puts back anything it set aside. The installer and its shortcut stay. |
 | **Cancel** / **Install** | Close without changes / apply what you ticked and chose. |
 
 ## Settings
@@ -107,7 +107,7 @@ It installs, updates or removes only that mod, and leaves any other mod of mine 
 
 ## Uninstall
 
-Close BO2 and press **Uninstall all** in the window (or double-click **Uninstall.bat**). It removes all of my mods, the shortcuts and the installer kept on your PC, and puts back anything it set aside. Your Zombies Declassified is left as it came.
+Close BO2 and press **Uninstall all** in the window (or double-click **Uninstall.bat**). It removes all of my mods and puts back anything it set aside. Your Zombies Declassified is left as it came. The installer and its **MaliceDevelops BO2 Mods** shortcut stay, so you can install again; to remove them too, delete the shortcut and the folder `%LOCALAPPDATA%\MaliceDevelops`.
 
 ## How it stays lean
 
