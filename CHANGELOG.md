@@ -1,5 +1,10 @@
 # Changelog
 
+## Installer 1.2 (pack 3)
+
+- The installer stays open after you do something in it. After Install, Repair, Uninstall, Uninstall all or Turn off / on, the window comes back with your mods as they are now and what was done at the top. Only Cancel, the X and Play close it.
+- Installers from earlier packs update themselves to 1.2 the next time they run.
+
 ## Installer 1.1 (pack 2)
 
 - Uninstalling keeps the installer and its "MaliceDevelops BO2 Mods" shortcut (one mod or all of them), so you can install again from the shortcut.

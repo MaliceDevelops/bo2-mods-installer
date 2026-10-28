@@ -54,7 +54,9 @@ Unzip it anywhere (your Downloads folder is fine). Windows may warn about runnin
 
 ### 5. Press Install
 
-A console window shows each step: what it downloads, every file it copies, and where. When it says **Installed.**, type **P** and press Enter to open Plutonium (pick Black Ops II Zombies there), or just press Enter to close it.
+A console window shows each step: what it downloads, every file it copies, and where. Then the window comes back with **Installed.** at the top and your mods marked **Installed**. Press **Play** to open Plutonium (pick Black Ops II Zombies there), or close the window.
+
+The installer stays open after everything you do in it (Install, Repair, Uninstall, Turn off / on): only **Cancel**, the **X** and **Play** close it.
 
 ### 6. Play
 
