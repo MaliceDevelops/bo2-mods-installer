@@ -4,7 +4,7 @@ One installer for all of my Black Ops 2 Zombies (Plutonium) mods. Tick the ones 
 
 ### [⬇ Download the installer](https://github.com/MaliceDevelops/bo2-mods-installer/releases/latest)
 
-Under **Assets**, download `MaliceDevelops_BO2_Mods_Installer_v<version>.zip`. Every mod's own download has the same installer in it, so you can also start from a mod's page.
+Under **Assets**, download `MaliceDevelops_BO2_Mods_Installer_v<version>.zip`. This is the one to use for combining my mods. Each mod's own page also has a download with just that mod.
 
 ## The mods
 
