@@ -63,6 +63,6 @@ Close BO2 and press **Uninstall all** in the window (or double-click **Uninstall
 
 ## Credits
 
-The mods are made by **MaliceKy** - see each mod's page for its own credits. Built with [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools) and [Plutonium](https://plutonium.pw).
+The mods are made by **MaliceDevelops** - see each mod's page for its own credits. Built with [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools) and [Plutonium](https://plutonium.pw).
 
 Free fan mods, not affiliated with or endorsed by Activision. Don't sell them.
